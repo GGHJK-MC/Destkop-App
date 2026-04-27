@@ -57,8 +57,9 @@ class InstallWorker(QThread):
 Version=1.0
 Type=Application
 Name=GGHJK App
-Exec={exec_path}
-Icon={INSTALL_DIR}/icon.png
+Description=GGHJK Desktop app
+Exec=~/gghjk_app/GGHJK-App
+Icon=~/gghjk_app/icon.png
 Terminal=false
 Categories=Utility;
 """
