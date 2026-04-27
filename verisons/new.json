@@ -1,8 +1,8 @@
 [
     {
-        "version": "1.0.1",
+        "version": "1.2.0",
         "date": "04/27/2026",
-        "description": "First release of the application. This version includes basic features and functionalities.",
+        "description": "Added Auto Update",
         "url": "https://github.com/GGHJK-MC/Destkop-App/releases/download/1.0.0/Archiv.zip"
     }
 ]
