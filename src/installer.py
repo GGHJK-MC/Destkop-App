@@ -51,7 +51,7 @@ class InstallWorker(QThread):
 
     def create_linux_shortcut(self):
         desktop_path = os.path.expanduser("~/.local/share/applications/gghjk_app.desktop")
-        exec_path = os.path.join(INSTALL_DIR, "main_app_bin") # Cesta k tvé binárce
+        exec_path = os.path.join(INSTALL_DIR, "GGHJK-App") # Cesta k tvé binárce
 
         content = f"""[Desktop Entry]
 Version=1.0
